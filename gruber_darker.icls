@@ -1,13 +1,16 @@
 <scheme name="gruber-darker" version="142" parent_scheme="Dark">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2024-03-14T15:06:23</property>
-    <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2023.2.5.0.0</property>
-    <property name="modified">2024-03-14T15:06:29</property>
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2024.1.2.0.0</property>
     <property name="originalScheme">gruber-darker</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
   <colors>
     <option name="  ANNOTATIONS_COLOR" value="8d9199" />
+    <option name="CARET_COLOR" value="ffdd33" />
   </colors>
   <attributes>
     <option name="BASH.EXTERNAL_COMMAND">
@@ -234,14 +237,12 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="PHP_THIS_VAR">
       <value>
         <option name="FOREGROUND" value="ffdd33" />
       </value>
     </option>
-    <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
-    <option name="PROPERTIES.KEY" baseAttributes="" />
+    <option name="PROPERTIES.KEY" baseAttributes="DEFAULT_KEYWORD" />
     <option name="REGEXP.CHAR_CLASS" baseAttributes="DEFAULT_ENTITY" />
     <option name="RUNTIME_ERROR">
       <value>
@@ -277,9 +278,9 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="cc8c3c" />
-        <option name="FONT_TYPE" value="2" />
-        <option name="ERROR_STRIPE_COLOR" value="cc8c3c" />
+        <option name="FOREGROUND" value="ffdd33" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="ERROR_STRIPE_COLOR" value="ffdd33" />
       </value>
     </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
